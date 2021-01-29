@@ -1,0 +1,12 @@
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.deps.json
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.runtimeconfig.json
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.runtimeconfig.dev.json
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\bin\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.csprojAssemblyReference.cache
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.AssemblyInfoInputs.cache
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.AssemblyInfo.cs
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.dll
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.pdb
+C:\Users\Camilo\source\repos\AmisCamiloBautista\AmisCamiloBautista.Dominio\obj\Debug\netcoreapp3.1\AmisCamiloBautista.Dominio.genruntimeconfig.cache
